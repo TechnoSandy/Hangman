@@ -1,5 +1,5 @@
 # Hangman
-##Hangman sample console game 
+## Hangman sample console game 
 
 
 
